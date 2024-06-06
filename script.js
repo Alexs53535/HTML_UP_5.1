@@ -1,1 +1,0 @@
-const memu = document.querySelector(selectots: memu)
